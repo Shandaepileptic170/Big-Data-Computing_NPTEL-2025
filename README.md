@@ -1,4 +1,4 @@
-# Big Data Computing – SWAYAM NPTEL (Assignments & Notes)
+# Big Data Computing – SWAYAM NPTEL (Assignments, Notes & Exam Review)
 
 📘 This repository contains **assignment** from the **Big Data Computing** course offered by **SWAYAM NPTEL** in the years **2019**, **2021**, **2022**, **2023**, **2024** and **2025**, along with the **official lecture notes** shared during the **2025 session** by the instructor.
 
